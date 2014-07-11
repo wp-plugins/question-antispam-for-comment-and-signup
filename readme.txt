@@ -8,12 +8,12 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-antispam question for signup and comment forms of wordpress
+antispam question for signup and comment forms of wordpress, set by admin, supports Multisite mode
 
 
 == Description ==
 
-antispam question for signup and comment forms of wordpress
+antispam question for signup and comment forms of wordpress, set by admin, supports Multisite mode
 
 
 == Installation ==
