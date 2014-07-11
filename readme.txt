@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: qdinar
 #Donate link: http://example.com/
-Tags: multisite, antispam, captcha, spam, question, answer, signup, registration
+Tags: multisite, antispam, captcha, spam, question, answer, signup, registration, comments
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
