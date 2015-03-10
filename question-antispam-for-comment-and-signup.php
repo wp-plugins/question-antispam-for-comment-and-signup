@@ -2,7 +2,7 @@
 /*
  Plugin Name: Question Antispam for Comment and Signup
  Plugin URI: http://qdb.wp.kukmara-rayon.ru/wp-ms-question-antispam/
- Description: Question and answer as antispam in signup and comment forms of Wordpress, set by admin, supports Multisite mode.
+ Description: Question and answer as antispam in signup and comment forms of Wordpress, set by admin, supports Multisite mode. The antispam question does not appear in single site mode registration.
  Author: Dinar Qurbanov
  Author URI: http://qdb.wp.kukmara-rayon.ru/
  Version: 0.0.5
